@@ -1,0 +1,7 @@
+#Required Packages
+
+torch 
+torchvision 
+fire
+fairscale
+sentencepiece
